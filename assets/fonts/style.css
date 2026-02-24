@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Charter Bold';
+   font-display: swap;
+   src: url('Charter Bold/font.ttf');
+}
+@font-face {
+   font-family: 'IBMPlexSans-Medium';
+   font-display: swap;
+   src: url('IBMPlexSans-Medium/font.ttf');
+}
